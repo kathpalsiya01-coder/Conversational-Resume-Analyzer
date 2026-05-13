@@ -1,0 +1,11 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Vector store (too large for GitHub)
+faiss_index/
+
+# Temp files
+*.tmp
